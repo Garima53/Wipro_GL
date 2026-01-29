@@ -1,0 +1,10 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore node & misc
+node_modules/
+package-lock.json
+package.json
